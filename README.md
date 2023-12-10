@@ -1,1 +1,1 @@
-# ResNet50_food_allergens_recognition
+# food_allergens_recognition_with_ingredients101
